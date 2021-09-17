@@ -15,7 +15,7 @@ Jag har använt mig av dessa paket :
 ## Skapat system och dess task:
 Jag har gjort följande tasks: 
 1. copyHTML - kopierar HTML filer till pub-katalogen.  
-2. 2. cssTask- Slår ihop css-filerna till en och samma, minifierar, lägger över till pubkatalogen samt uppdaterar CSS för webbläsaren vid förändringar.  
+2. cssTask- Slår ihop css-filerna till en och samma, minifierar, lägger över till pubkatalogen samt uppdaterar CSS för webbläsaren vid förändringar.  
 3. jsTask - Slår ihop Js-filerna till en och sammma, minifierar, lägger över till pubkatalogen. 
 4. imagesTask- komprimerar bildfiler och lägger över dem till pubkatalogen.
 5. watchTask - Lyssnar efter förändringar i src-katalogen, hittar den förändringar så skrivs ändringen över till pub-katalogen. Liveserver körs i denna task, dvs att sidan laddas om vid upptäckt färändring i filerna.
